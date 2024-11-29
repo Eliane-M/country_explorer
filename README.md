@@ -4,7 +4,7 @@ This app allows end users to view top news of the day. I developed it using the 
 
 To run the app, first clone the repo using this command
 ```
-git clone https://github.com/Eliane-M/shoping_cart.git
+git clone https://github.com/Eliane-M/country_explorer.git
 ```
 ```
 cd shoping_cart
