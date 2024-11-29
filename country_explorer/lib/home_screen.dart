@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Top Headlines')),
+      appBar: AppBar(title: const Text('Top Headlines'), backgroundColor: Colors.blue),
       body: FutureBuilder(
         future: newsService.fetchTopHeadlines(),
         builder: (context, snapshot) {
